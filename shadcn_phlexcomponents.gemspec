@@ -23,4 +23,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency("lucide-rails", "~> 0.5.1")
   spec.add_dependency("phlex-rails", "~> 2.1")
   spec.add_dependency("tailwind_merge", "~> 1.0")
+  spec.add_development_dependency "appraisal"
 end
